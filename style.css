@@ -1,0 +1,12 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+  transition: background 0.5s;
+  padding: 50px;
+}
+
+.moods label {
+  display: block;
+  margin: 10px 0;
+  font-size: 18px;
+}
